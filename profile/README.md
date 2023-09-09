@@ -1,7 +1,9 @@
 # The andromeda project
 
-The andromeda project is a project that has the goal of creating a modern, rethought rewrite of [Cosmos](https://github.com/CosmosOS/Cosmos).
+The andromeda project is a project that has the goal of allowing people to make an OS that they'd actually use.
 
-And yes, we are ditching IL2CPU & XSharp. Instead, we won't have any HLA, and instead use [IL2C](https://github.com/kekyo/IL2C) (or a fork so we can use plugs).
+Every OS made with andromeda is not actually an OS, they're a Linux distro. andromeda allows you to create your own Linux distro and write part of it using C#.
 
-The andromeda project is NOT endorsed by COSMOS/CosmosOS in any way, shape, or form.
+More info in [andromeda-cs/andromeda](https://github.com/andromeda-cs/andromeda).
+
+This project is an independent initiative and is not associated with, endorsed by, or sponsored by the Linux Foundation, Linus Torvalds, Microsoft Corporation, or any other companies or projects whose work is being built upon or emulated.
