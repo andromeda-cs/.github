@@ -2,7 +2,7 @@
 
 The andromeda project is a project that has the goal of allowing people to make an OS that they'd actually use.
 
-Every OS made with andromeda is not actually an OS, they're a Linux distro. andromeda allows you to create your own Linux distro and write part of it using C#.
+Every OS made with andromeda is not actually an OS, they're a Linux distro. andromeda allows you to create your own Linux distro and write parts of it using C#.
 
 More info in [andromeda-cs/andromeda](https://github.com/andromeda-cs/andromeda).
 
